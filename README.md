@@ -1,16 +1,26 @@
-# 🧠 Baekjoon Problem Solving
+<div align="center">
 
-백준 온라인 저지 문제 풀이 아카이브입니다.  
-꾸준히 문제를 해결하며 알고리즘과 자료구조를 학습합니다.
-
-## 🌱 About
-- 알고리즘 문제 해결 능력 향상
-- 다양한 풀이 방식 기록
-- 복습 가능한 풀이 저장소 운영
-
-## 🛠 Tech Stack
-- Python
+# 🧩 BOJ Archive
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lka09)](https://solved.ac/lka09)
 
+Python으로 백준 문제를 풀며  
+꾸준히 성장하는 알고리즘 풀이 저장소입니다.
 
+</div>
+
+## 📝 Introduction
+
+백준 온라인 저지 문제 풀이를 기록합니다.  
+문제를 해결하는 과정 속에서 알고리즘, 자료구조, 구현 능력을 함께 다집니다.
+
+## ⚙️ Language
+
+- Python
+
+## 🎯 Objective
+
+- 매일 꾸준히 문제 풀기
+- 다양한 알고리즘 유형 익히기
+- 풀이 기록을 통해 복습하기
+- 더 효율적이고 읽기 좋은 코드 작성하기
