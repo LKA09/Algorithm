@@ -16,6 +16,7 @@ Python으로 백준 문제를 풀며
 
 ## ⚙️ Language
 
+- JAVA
 - Python
 
 ## 🎯 Objective
