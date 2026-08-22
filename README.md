@@ -2,10 +2,9 @@
 
 # 🧩 BOJ Archive
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lka09)](https://solved.ac/lka09)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lir09)](https://solved.ac/lka09)
 
-Python으로 백준 문제를 풀며  
-꾸준히 성장하는 알고리즘 풀이 저장소입니다.
+알고리즘 풀이 저장소입니다.
 
 </div>
 
