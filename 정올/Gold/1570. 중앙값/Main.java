@@ -1,5 +1,3 @@
-package ps;
-
 import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Scanner;
@@ -45,6 +43,7 @@ public class Main {
             right.add(value);
         }
 
+        // left가 right보다 항상 1개 많도록 맞춤
         if (left.size() > right.size() + 1) {
             right.add(left.poll());
         } else if (left.size() < right.size()) {
