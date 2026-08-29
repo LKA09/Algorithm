@@ -4,6 +4,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lir09)](https://solved.ac/lka09)
 
+[![JUNGOL Profile](https://raw.githubusercontent.com/LKA09/Jungol-card/main/jungol-card.svg)](https://jungol.co.kr/account/143157)
+
 알고리즘 풀이 저장소입니다.
 
 </div>
